@@ -1,0 +1,13 @@
+google-generativeai
+python-dotenv
+langchain_core
+langchain
+langchain_community
+langchain_google_genai
+bs4
+langchain-text-splitters
+langchain_openai
+faiss-cpu
+langchain-openai==0.0.8
+streamlit
+tiktoken
